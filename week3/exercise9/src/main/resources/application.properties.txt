@@ -1,6 +1,0 @@
-# Primary Data Source Configuration
-spring.datasource.primary.url=jdbc:h2:mem:testdb1
-spring.datasource.primary.driverClassName=org.h2.Driver
-spring.datasource.primary.username=sa
-spring.datasource.primary.password=password
-spring.datasource.primary.jpa.database-platform=org.hibernate.dialect.H2Dialect
